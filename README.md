@@ -2,7 +2,7 @@
 [![MasterHead](https://lh3.googleusercontent.com/-UcIyxvXpDks/WsQY7rMg93I/AAAAAAAAAKk/BGqNFFj-Oyox-kxxfOKMv_uTH6VLy8zzgCMQCGAYYCw/s400/66743.gif)](https://warsiaaliya.io)
 <h1 align="center">Hi 👋, I'm Aaliya Warsi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt='coding' width='400' src="[https://img.freepik.com/premium-vector/woman-working-laptop-cartoon-illustration_607277-161.jpg?w=740](https://lh3.googleusercontent.com/-UcIyxvXpDks/WsQY7rMg93I/AAAAAAAAAKk/BGqNFFj-Oyox-kxxfOKMv_uTH6VLy8zzgCMQCGAYYCw/s400/66743.gif)">
+<img align="right" alt='coding' width='400' src="[https://img.freepik.com/premium-vector/woman-working-laptop-cartoon-illustration_607277-161.jpg?w=740]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warsiaaliya&label=Profile%20views&color=0e75b6&style=flat" alt="warsiaaliya" /> </p>
 
